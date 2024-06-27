@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770798797488",
+    "project_id": "joexplore-d869c",
+    "storage_bucket": "joexplore-d869c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770798797488:android:228ac2a1df1548a87b3175",
+        "android_client_info": {
+          "package_name": "com.example.graduationproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmUU-zBKZJZtMfDCQ0LdQ_kOpW8Zlq_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
