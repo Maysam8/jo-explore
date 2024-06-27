@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home:JoinChat(),
+      home:SplashScreen(),
       routes: {
         "signup": (context) => SignupScreen(),
         "Login": (context) => LoginScreen(),
